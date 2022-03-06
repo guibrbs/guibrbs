@@ -2,9 +2,10 @@
 
 <p align={"center"}>
   
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guibrbs&layout=compact&theme=dark)](https://github.com/guibrbs/github-readme-stats)
+  
   ![guibrbs's GitHub stats](https://github-readme-stats.vercel.app/api?username=guibrbs&hide=issues&theme=dark&show_icons=true,prs)
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guibrbs&layout=compact&theme=dark)](https://github.com/guibrbs/github-readme-stats)
 </p>
 
   
