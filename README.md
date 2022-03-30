@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/guibrbs/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guibrbs&layout=compact&theme=dark" />
-    <img src="https://github-readme-stats.vercel.app/api?username=guibrbs&hide=issues&theme=dark&show_icons=true" />
+    <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guibrbs&layout=compact&theme=dark" />
+    <img height="100em" src="https://github-readme-stats.vercel.app/api?username=guibrbs&hide=issues&theme=dark&show_icons=true" />
   </a>
   
   ![Snake animation](https://github.com/guibrbs/guibrbs/blob/output/github-contribution-grid-snake.svg)
