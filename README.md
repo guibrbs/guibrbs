@@ -1,4 +1,6 @@
-![readme1](https://user-images.githubusercontent.com/88190414/156910787-6100e41b-1c34-452a-8000-85a9439ee728.gif)
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/88190414/156910787-6100e41b-1c34-452a-8000-85a9439ee728.gif" alt="gif" width=750px />
+</div>
 
 <div align="center">
   <a href="https://github.com/guibrbs/github-readme-stats">
