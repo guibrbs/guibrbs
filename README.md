@@ -1,12 +1,12 @@
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/88190414/156910787-6100e41b-1c34-452a-8000-85a9439ee728.gif" alt="gif" width=750px />
-</div>
 
 <div align="center">
   <a href="https://github.com/guibrbs/github-readme-stats">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guibrbs&layout=compact&theme=dark" />
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=guibrbs&hide=issues&theme=dark&show_icons=true" />
-  </a>
+    <img height="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guibrbs&layout=compact&theme=tokyonight&hide_border=true" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=guibrbs&hide=issues&theme=tokyonight&show_icons=true&hide_border=true" />
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats/blob/main/docs/themes/README.md">
+       <img width='48%' title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Guilherme Barbosa's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=guibrbs&theme=tokyonight&hide_border=true&stroke=0000"/>
+       
+   </a>
   
   ![Snake animation](https://github.com/guibrbs/guibrbs/blob/output/github-contribution-grid-snake.svg)
 <div/>
