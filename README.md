@@ -34,8 +34,4 @@
    </a>
   
   ![Snake animation](https://github.com/guibrbs/guibrbs/blob/output/github-contribution-grid-snake.svg)
-<div/>
-
-## Views :eyes:
-![](https://komarev.com/ghpvc/?username=guibrbs&style=for-the-badge&color=1a1b27)
-  
+</div>
