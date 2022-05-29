@@ -1,18 +1,18 @@
 # Eai! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Eu sou o Gui!</img>
 
 ## 🙋‍♂️ Sobre mim
-### Sou técnico em informática. Graduando em Engenharia de Software pela Universidade de Brasília.
+#### Sou técnico em informática. Graduando em Engenharia de Software pela Universidade de Brasília.
 
-### 🎮 Gosto de jogar games
-### ⚽ 🏀 ⬅️ Esses são meus <b>esportes favoritos</b>
-### 🖥️ Meu foco é desenvolver <b>Web/Mobile</b>
-### 🔥 Atualmente estou aprendendo:
+#### 🎮 Gosto de jogar games
+#### ⚽ 🏀 ⬅️ Esses são meus <b>esportes favoritos</b>
+#### 🖥️ Meu foco é desenvolver <b>Web/Mobile</b>
+#### 🔥 Atualmente estou aprendendo:
 - TailwindCSS
 - NextJs
 - NodeJs
 - MongoDB
 - Python
-### ✨ Essas são as tecnologias que eu tenho conhecimento:
+#### ✨ Essas são as tecnologias que eu tenho conhecimento:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width=5%/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width=5%/>
