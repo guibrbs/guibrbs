@@ -8,7 +8,6 @@
 #### 🖥️ Meu foco é desenvolver <b>Web/Mobile</b>
 #### 🔥 Atualmente estou aprendendo:
 - TailwindCSS
-- NextJs
 - NodeJs
 - MongoDB
 - Python
@@ -21,6 +20,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=5%/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width=5%/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width=5%/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width=5%/>        
 </div>
 
 #
