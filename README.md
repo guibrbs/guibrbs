@@ -1,4 +1,4 @@
-# Eai! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Eu sou o Gui!</img>
+# Eai! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> Eu sou o Gui!</img>
 
 ## 🙋‍♂️ Sobre mim
 #### Sou técnico em informática. Graduando em Engenharia de Software pela Universidade de Brasília.
