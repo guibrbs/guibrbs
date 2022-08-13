@@ -3,14 +3,11 @@
 ## 🙋‍♂️ Sobre mim
 #### Sou técnico em informática. Graduando em Engenharia de Software pela Universidade de Brasília.
 
-#### 🎮 Gosto de jogar games
-#### ⚽ 🏀 ⬅️ Esses são meus <b>esportes favoritos</b>
 #### 🖥️ Meu foco é desenvolver <b>Web/Mobile</b>
 #### 🔥 Atualmente estou aprendendo:
-- TailwindCSS
-- NodeJs
-- MongoDB
 - Python
+- Ruby on Rails
+- Angular
 #### ✨ Essas são as tecnologias que eu tenho conhecimento:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width=5%/>
@@ -20,7 +17,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=5%/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width=5%/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width=5%/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width=5%/>        
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width=5%/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width=5%/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width=5%/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width=5%/>
 </div>
 
 #
