@@ -1,10 +1,11 @@
 # Eai! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> Eu sou o Gui!</img>
 
 ## 🙋‍♂️ Sobre mim
-#### Sou técnico em informática. Graduando em Engenharia de Software pela Universidade de Brasília.
+Sou técnico em informática. Graduando em Engenharia de Software pela Universidade de Brasília.
 
-#### 🖥️ Meu foco é desenvolver <b>Web/Mobile</b>
-#### 🔥 Atualmente estou aprendendo:
+🖥️ Meu foco é desenvolver aplicações <b>Web e Mobile</b>
+
+🔥 Atualmente estou aprendendo:
 - Python
 - Ruby on Rails
 - Angular
