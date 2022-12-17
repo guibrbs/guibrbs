@@ -7,7 +7,6 @@ Sou técnico em informática. Graduando em Engenharia de Software pela Universid
 
 🔥 Atualmente estou aprendendo:
 - Python
-- Ruby on Rails
 - Flutter
 #### ✨ Essas são as tecnologias que eu tenho conhecimento:
 <div align="left">
@@ -22,6 +21,7 @@ Sou técnico em informática. Graduando em Engenharia de Software pela Universid
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width=5%/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width=5%/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width=5%/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" width=5%/>
 </div>
 
 #
