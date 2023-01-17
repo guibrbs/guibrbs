@@ -33,6 +33,4 @@ Sou técnico em informática. Graduando em Engenharia de Software pela Universid
     <img width='42%' title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Guilherme Barbosa's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=guibrbs&theme=tokyonight&hide_border=true&stroke=0000"/>
        
    </a>
-  
-  ![Snake animation](https://github.com/guibrbs/guibrbs/blob/output/github-contribution-grid-snake.svg)
 </div>
